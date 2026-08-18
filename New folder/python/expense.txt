@@ -1,0 +1,10 @@
+
+[category][amount]
+[category][amount]
+graps:50
+mango banan apple:200
+graps,mango ,apple:320
+cherry:20
+apple:400
+apple:200
+apple:200
